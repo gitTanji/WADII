@@ -44,17 +44,6 @@ $tim = date("H:i:s");
 </head>
 <body>
 
-<!-- Page Loader -->
-<div id="loader">
-  <div class="position-center-center">
-    <div class="cssload-thecube">
-      <div class="cssload-cube cssload-c1"></div>
-      <div class="cssload-cube cssload-c2"></div>
-      <div class="cssload-cube cssload-c4"></div>
-      <div class="cssload-cube cssload-c3"></div>
-    </div>
-  </div>
-</div>
 
 <!-- Page Wrapper -->
 <div id="wrap">
@@ -93,6 +82,7 @@ $tim = date("H:i:s");
             <li> <a href="index.php">Home </a></li>
             <li><a href="about.php">About</a></li>            
             <li><a href="patientappointment.php">Appointment </a></li>
+            <li><a href="storemain.php">Store </a></li>
             <li><a href="contact.php">Contact </a></li>
             <li class="dropdown"> <a href="#" class="dropdown-toggle" data-toggle="dropdown">Log In </a>
               <ul class="dropdown-menu multi-level" style="display: none;">
