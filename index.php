@@ -204,13 +204,13 @@
             <div class="col-md-4">
               <div class="timing"> <i class="lnr lnr-clock"></i>
                 <ul>
-                  <li> Monday <span>8.00 - 16.00</span></li>
-                  <li> Tuesday <span>8.00 - 16.00</span></li>
-                  <li> Wednesday <span>8.00 - 16.00</span></li>
-                  <li> Thursday <span>8.00 - 16.00</span></li>
-                  <li> Friday <span>8.00 - 16.00</span></li>
-                  <li> Saturday <span>8.00 - 16.00</span></li>
-                  <li> Sunday <span>8.00 - 16.00</span></li>
+                  <li> Monday <span>9.00 - 16.00</span></li>
+                  <li> Tuesday <span>9.00 - 16.00</span></li>
+                  <li> Wednesday <span>9.00 - 16.00</span></li>
+                  <li> Thursday <span>9.00 - 16.00</span></li>
+                  <li> Friday <span>9.00 - 16.00</span></li>
+                  <li> Saturday <span>9.00 - 16.00</span></li>
+                  <li> Sunday <span>9.00 - 16.00</span></li>
                 </ul>
               </div>
             </div>
