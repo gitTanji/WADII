@@ -9,7 +9,7 @@
           <!-- SLIDE  -->
           <li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" > 
             <!-- MAIN IMAGE --> 
-            <img src="images/slider-bg-1.png"  alt="slider"  data-bgposition=" center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+            <img src="images/background1.jpg"  alt="slider"  data-bgposition=" center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
             
             <!-- LAYER NR. 1 -->
             <div class="tp-caption sfl tp-resizeme" 
@@ -23,7 +23,7 @@
                 data-elementdelay="0.03" 
                 data-endelementdelay="0.4" 
                 data-endspeed="300"
-                style="z-index: 5; font-size:50px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">Hospital Management System</div>
+                style="z-index: 5; font-size:50px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">Traditional Chinese Herbal Medicines</div>
             
             <!-- LAYER NR. 2 -->
             <div class="tp-caption sfr tp-resizeme" 
@@ -37,7 +37,7 @@
                 data-elementdelay="0.03" 
                 data-endelementdelay="0.1" 
                 data-endspeed="300" 
-                style="z-index: 6; font-size:40px; color:#fff; font-weight:500; white-space: nowrap;">We care about your health </div>
+                style="z-index: 6; font-size:40px; color:#fff; font-weight:500; white-space: nowrap;">Works like a charm </div>
             
             <!-- LAYER NR. 3 -->
             <div class="tp-caption sfb tp-resizeme" 
@@ -51,7 +51,7 @@
                 data-elementdelay="0.1" 
                 data-endelementdelay="0.1" 
                 data-endspeed="300" 
-                style="z-index: 7;  font-size:22px; color:#fff; font-weight:500; max-width: auto; max-height: auto; white-space: nowrap;">Best Hospitality Services in your town</div>
+                style="z-index: 7;  font-size:22px; color:#fff; font-weight:500; max-width: auto; max-height: auto; white-space: nowrap;">Best TCM you could ever get in SG</div>
             
             <!-- LAYER NR. 4 -->
             <div class="tp-caption lfb tp-resizeme scroll" 
@@ -70,7 +70,7 @@
           <!-- SLIDE  -->
           <li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" > 
             <!-- MAIN IMAGE --> 
-            <img src="images/slider-bg-2.png"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+            <img src="images/background2.jpg"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
             
             <!-- LAYER NR. 1 -->
             <div class="tp-caption sfl tp-resizeme" 
@@ -84,7 +84,7 @@
                 data-elementdelay="0.03" 
                 data-endelementdelay="0.4" 
                 data-endspeed="300"
-                style="z-index: 5; font-size:40px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">Best Diagnostic Centre </div>
+                style="z-index: 5; font-size:40px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">Best Moxibustion Therapy </div>
             
             <!-- LAYER NR. 2 -->
             <div class="tp-caption sfr tp-resizeme" 
@@ -98,7 +98,7 @@
                 data-elementdelay="0.03" 
                 data-endelementdelay="0.4" 
                 data-endspeed="300"
-                style="z-index: 5; font-size:55px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">Hospital Management System</div>
+                style="z-index: 5; font-size:55px; font-weight:500; color:#fff;  max-width: auto; max-height: auto; white-space: nowrap;">AGTT TCM Clinic</div>
             
             <!-- LAYER NR. 3 -->
             <div class="tp-caption sfb tp-resizeme" 
@@ -112,7 +112,7 @@
                 data-elementdelay="0.1" 
                 data-endelementdelay="0.1" 
                 data-endspeed="300" 
-                style="z-index: 7; font-size:16px; color:#fff; font-weight:500; line-height:26px; max-width: auto; max-height: auto; white-space: nowrap;">Improved diagnostic performance and heightened satisfaction of patients <br> and physicians delight.</div>
+                style="z-index: 7; font-size:16px; color:#fff; font-weight:500; line-height:26px; max-width: auto; max-height: auto; white-space: nowrap;">Helps you to Increase peripheral arterial blood flow <br>and microvascular permeability</div>
             
             <!-- LAYER NR. 4 -->
             <div class="tp-caption lfb tp-resizeme scroll" 
@@ -125,13 +125,13 @@
                 data-endelementdelay="0.1" 
                 data-endspeed="300" 
                 data-scrolloffset="0"
-                style="z-index: 8;"><a href="#." class="btn">CONTACT NOW</a> </div>
+                style="z-index: 8;"><a href="tel:98789882" class="btn">CONTACT US NOW</a> </div>
           </li>
           
           <!-- SLIDE  -->
           <li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" > 
             <!-- MAIN IMAGE --> 
-            <img src="images/slider-bg-3.png"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+            <img src="images/background3.png"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
             
             <!-- LAYER NR. 2 -->
             <div class="tp-caption sfb tp-resizeme" 
@@ -144,7 +144,7 @@
                 data-endelementdelay="0.1" 
                 data-endspeed="300" 
                 data-scrolloffset="0"
-                style="z-index: 6; font-size:40px; color:#fff; font-weight:500; white-space: nowrap;"> Welcome To Our Research Center </div>
+                style="z-index: 6; font-size:40px; color:#fff; font-weight:500; white-space: nowrap;"> Acupuncture Therapy</div>
             
             <!-- LAYER NR. 3 -->
             <div class="tp-caption sfb tp-resizeme text-center" 
@@ -157,8 +157,7 @@
                 data-endelementdelay="0.1" 
                 data-endspeed="300" 
                 data-scrolloffset="0"
-                style="z-index: 7; font-size:20px; font-weight:500; line-height:26px; color:#fff; max-width: auto; max-height: auto; white-space: nowrap;">We work in a friendly and efficient using the latest <br>
-              technologies and sharing our expertise.</div>
+                style="z-index: 7; font-size:20px; font-weight:500; line-height:26px; color:#fff; max-width: auto; max-height: auto; white-space: nowrap;">It improves fertility issues, women’s health, pain management and digestive issues </div>
           </li>
         </ul>
       </div>
@@ -177,25 +176,34 @@
             <!-- Intro Detail -->
             <div class="col-md-8">
               <div class="text-sec">
-                <h5>Health Check Up At Hospital Management System</h5>
-                <p>Labaid Diagnostic Centre, in addition to providing world-class clinical lab services, it has a pool of specialists from various medical specialties who serve suffering patients as outpatients. They are all well-known and well-respected in their medical fields for excellent clinical management.</p>
+                <h5>TCM one-stop website</h5>
+                <p>We provide the following features to our patients</p>
                 <ul class="row">
                   <li class="col-sm-6">
-                    <h6> <i class="lnr  lnr-checkmark-circle"></i> EMERGENCY CASE</h6>
-                    <p>HMS provide reliable communications and improve public safety areas. </p>
+                    <h6> <i class="lnr  lnr-checkmark-circle"></i> TCM STORE</h6>
+                    <p>AGTT provides you the ability to buy Traditional Chinese Medicinee </p>
                   </li>
                   <li class="col-sm-6">
                     <h6> <i class="lnr  lnr-checkmark-circle"></i> QUALIFIED DOCTORS</h6>
-                    <p>Hopital Management System has licensed and qualified doctors! </p>
+                    <p>We have the top notch quaified and certified doctors </p>
+                    <li class="col-sm-6">
+                    <h6> <i class="lnr  lnr-checkmark-circle"></i> ACCOUNT MANAGEMENT</h6>
+                    <p>You can log in to manage your account!</p>
+                  </li>
                   </li>
                   <li class="col-sm-6">
                     <h6> <i class="lnr  lnr-checkmark-circle"></i> ONLINE APPOINTMENT</h6>
-                    <p>Hospital Management System Supports Online Appointment. Check the appointment tab above. </p>
+                    <p>You can book your clinic appointment with us through this website </p>
                   </li>
                   <li class="col-sm-6">
-                    <h6> <i class="lnr  lnr-checkmark-circle"></i> FREE MEDICAL COUNSELING</h6>
-                    <p>HMS qualified doctors offers free counseling to their patients. </p>
+                    <h6> <i class="lnr  lnr-checkmark-circle"></i> CHATBOT</h6>
+                    <p>You can chat with our AI powered chatbot to get more interesting insights </p>
                   </li>
+                  <li class="col-sm-6">
+                    <h6> <i class="lnr  lnr-checkmark-circle"></i> TCM ARTICLES</h6>
+                    <p>You can get your daily dose of TCM rumor debunk!</p>
+                  </li>
+                  
                 </ul>
               </div>
             </div>
@@ -204,13 +212,14 @@
             <div class="col-md-4">
               <div class="timing"> <i class="lnr lnr-clock"></i>
                 <ul>
-                  <li> Monday <span>9.00 - 16.00</span></li>
-                  <li> Tuesday <span>9.00 - 16.00</span></li>
-                  <li> Wednesday <span>9.00 - 16.00</span></li>
-                  <li> Thursday <span>9.00 - 16.00</span></li>
-                  <li> Friday <span>9.00 - 16.00</span></li>
-                  <li> Saturday <span>9.00 - 16.00</span></li>
-                  <li> Sunday <span>9.00 - 16.00</span></li>
+                  <li> Our working hours  </li>
+                  <li> Monday <span>10.00 - 18.00</span></li>
+                  <li> Tuesday <span>10.00 - 18.00</span></li>
+                  <li> Wednesday <span>10.00 - 18.00</span></li>
+                  <li> Thursday <span>10.00 - 18.00</span></li>
+                  <li> Friday <span>10.00 - 18.00</span></li>
+                  <li> Saturday <span>10.00 - 12.00</span></li>
+                  <li> Sunday <span>Closed</span></li>
                 </ul>
               </div>
             </div>
@@ -221,90 +230,7 @@
     
   
 
-    
-    <!-- DOCTOR LIST -->
-    <section class="p-t-b-150">
-      <div class="container"> 
-        
-        <!-- Heading -->
-        <div class="heading-block">
-          <h2>Our Services</h2>
-          <hr>
-          <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span> </div>
-        
-        <!-- Services -->
-        <div class="services">
-          <div class="row"> 
-            
-            <!-- Services -->
-            <div class="col-md-4">
-              <article>
-                <div class="media-left"> <i class="flaticon-eye-2 icon"></i> </div>
-                <div class="media-body">
-                  <h6>Eye Specialist</h6>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-              </article>
-            </div>
-            
-            <!-- Services -->
-            <div class="col-md-4">
-              <article>
-                <div class="media-left"> <i class="flaticon-operating-room icon"></i> </div>
-                <div class="media-body">
-                  <h6>Operation Theater</h6>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-              </article>
-            </div>
-            
-            <!-- Services -->
-            <div class="col-md-4">
-              <article>
-                <div class="media-left"> <i class="flaticon-icu-monitor icon"></i> </div>
-                <div class="media-body">
-                  <h6>ICU Department</h6>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-              </article>
-            </div>
-            
-            <!-- Services -->
-            <div class="col-md-4">
-              <article>
-                <div class="media-left"> <i class="flaticon-doctor icon"></i> </div>
-                <div class="media-body">
-                  <h6>Qualified Doctors</h6>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-              </article>
-            </div>
-            
-            <!-- Services -->
-            <div class="col-md-4">
-              <article>
-                <div class="media-left"> <i class="flaticon-heartbeat icon"></i> </div>
-                <div class="media-body">
-                  <h6>Heart Problems</h6>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-              </article>
-            </div>
-            
-            <!-- Services -->
-            <div class="col-md-4">
-              <article>
-                <div class="media-left"> <i class="flaticon-stomach-2 icon"></i> </div>
-                <div class="media-body">
-                  <h6>Stomach Problems</h6>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                </div>
-              </article>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+   
     
     
     
@@ -314,9 +240,9 @@
         
         <!-- Heading -->
         <div class="heading-block">
-          <h2>Our Best Departments</h2>
+          <h2>Our highly rated TCM practitioners</h2>
           <hr>
-          <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</span> </div>
+          <span>All our doctors are registered TCM physician under the Traditional Chinese Medicine Practitioners Act 2000</span> </div>
       </div>
       
       <!-- Department -->
@@ -327,44 +253,39 @@
             <div class="dep-sec-nav"> 
               <!-- Nav tabs -->
               <ul class="nav nav-tabs" role="tablist">
-                <li role="presentation"><a href="#dental" role="tab" data-toggle="tab">Dental</a></li>
-                <li role="presentation" class="active"><a href="#cardiology" role="tab" data-toggle="tab">Cardiology </a></li>
-                <li role="presentation"><a href="#for-disabled" role="tab" data-toggle="tab">For disabled </a></li>
-                <li role="presentation"><a href="#ophthalmology" role="tab" data-toggle="tab">Ophthalmology </a></li>
-                <li role="presentation"><a href="#emergency" role="tab" data-toggle="tab"> Emergency </a></li>
+                <li role="presentation"><a href="#TCM" role="tab" data-toggle="tab">TCM</a></li>
+                <li role="presentation" class="active"><a href="#Acupuncture" role="tab" data-toggle="tab">Acupuncture </a></li>
+                <li role="presentation"><a href="#Moxibustion" role="tab" data-toggle="tab">Moxibustion</a></li>
+                <li role="presentation"><a href="#Reflexology" role="tab" data-toggle="tab">Reflexology </a></li>
               </ul>
             </div>
             
             <!-- Tab Content -->
             <div class="tab-content"> 
               
-              <!-- Dental Depatment -->
-              <div role="tabpanel" class="tab-pane fade" id="dental"> 
+              <!-- TCM -->
+              <div role="tabpanel" class="tab-pane fade" id="TCM"> 
                 <!-- Depatment Text Section -->
                 <div class="dep-sec-txt">
                   <div class="row">
                     <div class="col-md-7">
-                      <h5>Our Best <span>Dental</span> Services</h5>
-                      <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, <br>
-                        <br>
-                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s PageMaker </p>
+                      <h5>Our Best <span>TCM</span> Services</h5>
+                      <p></p>
                       
                       <!-- List Style Check -->
                       <ul class="list-style-check">
-                        <li> Qualified Staff of Doctors </li>
-                        <li> Feel like you are at Home Services </li>
-                        <li> 24x7 Emergency Services </li>
-                        <li> Save your Money and Time with us </li>
-                        <li> Medicine Research </li>
-                        <li> Blood Bank </li>
+                        <li> Qualified TCM physician</li>
+                        <li> Very Friendly </li>
+                        <li> Available on Mon-Fri </li>
+                        <li> AAA rated TCM physician </li>
                       </ul>
                     </div>
                     
                     <!-- Doctor Img -->
                     <div class="col-md-offset-1 col-md-4">
-                      <div class="doctor-img"> <img class="img-responsive" src="images/depart-doctor-img.png" alt="" >
+                      <div class="doctor-img"> <img class="img-responsive" src="images/doc1.jpg" alt="" >
                         <div class="name-doc">
-                          <h6>Prof. Radha Swaminathan <span>Cardiology Specialists</span></h6>
+                          <h6>Wong Sia Peh <span>TCM Physician</span></h6>
                         </div>
                       </div>
                     </div>
@@ -372,33 +293,28 @@
                 </div>
               </div>
               
-              <!-- Cardiology Depatment -->
-              <div role="tabpanel" class="tab-pane fade in active" id="cardiology"> 
+              <!-- Acupuncture  -->
+              <div role="tabpanel" class="tab-pane fade in active" id="Acupuncture"> 
                 <!-- Depatment Text Section -->
                 <div class="dep-sec-txt">
                   <div class="row">
                     <div class="col-md-7">
-                      <h5>Our Best <span>CARDIOLOGY</span> Services</h5>
-                      <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, <br>
-                        <br>
-                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s PageMaker including versions of Lorem Ipsum. </p>
+                      <h5>Our Best <span>Acupuncture</span> Services</h5>
                       
                       <!-- List Style Check -->
                       <ul class="list-style-check">
-                        <li> Qualified Staff of Doctors </li>
-                        <li> Feel like you are at Home Services </li>
-                        <li> 24x7 Emergency Services </li>
-                        <li> Save your Money and Time with us </li>
-                        <li> Medicine Research </li>
-                        <li> Blood Bank </li>
+                      <li> Qualified Acupuncture physician</li>
+                        <li> Very Friendly </li>
+                        <li> Available on Mon-Fri </li>
+                        <li> AAA rated TCM physician </li>
                       </ul>
                     </div>
                     
                     <!-- Doctor Img -->
                     <div class="col-md-offset-1 col-md-4">
-                      <div class="doctor-img"> <img class="img-responsive" src="images/depart-doctor-img-2.png" alt="" >
+                      <div class="doctor-img"> <img class="img-responsive" src="images/doc2.jpg" alt="" >
                         <div class="name-doc">
-                          <h6>Prof. Nirupama Chakrabarti <span>Cardiology Specialists</span></h6>
+                          <h6>Ms.Roxy Quek <span>Acupuncture Specialists</span></h6>
                         </div>
                       </div>
                     </div>
@@ -406,33 +322,28 @@
                 </div>
               </div>
               
-              <!-- For disabled -->
-              <div role="tabpanel" class="tab-pane fade" id="for-disabled"> 
+              <!-- Moxibustion-->
+              <div role="tabpanel" class="tab-pane fade" id="Moxibustion"> 
                 <!-- Depatment Text Section -->
                 <div class="dep-sec-txt">
                   <div class="row">
                     <div class="col-md-7">
-                      <h5>Our Best Services <span>For Disabled</span> Persons </h5>
-                      <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, <br>
-                        <br>
-                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s PageMaker including versions of Lorem Ipsum. </p>
+                      <h5>Our Best Moxibustion </h5>
                       
                       <!-- List Style Check -->
                       <ul class="list-style-check">
-                        <li> Qualified Staff of Doctors </li>
-                        <li> Feel like you are at Home Services </li>
-                        <li> 24x7 Emergency Services </li>
-                        <li> Save your Money and Time with us </li>
-                        <li> Medicine Research </li>
-                        <li> Blood Bank </li>
+                      <li> Qualified Moxibustion physician </li>
+                        <li> Very Friendly </li>
+                        <li> Available on Mon-Fri </li>
+                        <li> AAA rated TCM physician </li>
                       </ul>
                     </div>
                     
                     <!-- Doctor Img -->
                     <div class="col-md-offset-1 col-md-4">
-                      <div class="doctor-img"> <img class="img-responsive" src="images/depart-doctor-img-3.png" alt="" >
+                      <div class="doctor-img"> <img class="img-responsive" src="images/doc3.jpg" alt="" >
                         <div class="name-doc">
-                          <h6>Prof. Dr. Indrajit Prashad <span>Cardiology Specialists</span></h6>
+                          <h6>Ms.Anna Huang <span>Moxibustion Specialists</span></h6>
                         </div>
                       </div>
                     </div>
@@ -440,67 +351,29 @@
                 </div>
               </div>
               
-              <!-- Ophthalmology -->
-              <div role="tabpanel" class="tab-pane fade" id="ophthalmology"> 
+              <!-- Reflexology -->
+              <div role="tabpanel" class="tab-pane fade" id="Reflexology"> 
                 <!-- Depatment Text Section -->
                 <div class="dep-sec-txt">
                   <div class="row">
                     <div class="col-md-7">
-                      <h5>Our Best <span>Ophthalmology</span> Services</h5>
-                      <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, <br>
-                        <br>
-                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s PageMaker including versions of Lorem Ipsum. </p>
+                      <h5>Our Best <span>Reflexology</span> Services</h5>
+                     
                       
                       <!-- List Style Check -->
                       <ul class="list-style-check">
-                        <li> Qualified Staff of Doctors </li>
-                        <li> Feel like you are at Home Services </li>
-                        <li> 24x7 Emergency Services </li>
-                        <li> Save your Money and Time with us </li>
-                        <li> Medicine Research </li>
-                        <li> Blood Bank </li>
+                      <li> Qualified Reflexology physician</li>
+                        <li> Very Friendly </li>
+                        <li> Available on Mon-Fri </li>
+                        <li> AAA rated TCM physician </li>
                       </ul>
                     </div>
                     
                     <!-- Doctor Img -->
                     <div class="col-md-offset-1 col-md-4">
-                      <div class="doctor-img"> <img class="img-responsive" src="images/depart-doctor-img-4.png" alt="" >
+                      <div class="doctor-img"> <img class="img-responsive" src="images/doc4.jpg" alt="" >
                         <div class="name-doc">
-                          <h6>Prof. Aalia Oommen <br><span>Ophthalmology Specialists</span></h6>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              
-              <!-- emergency -->
-              <div role="tabpanel" class="tab-pane fade" id="emergency"> 
-                <!-- Depatment Text Section -->
-                <div class="dep-sec-txt">
-                  <div class="row">
-                    <div class="col-md-7">
-                      <h5>Our Best <span>Emergency</span> Services</h5>
-                      <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, <br>
-                        <br>
-                        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s PageMaker including versions of Lorem Ipsum. </p>
-                      
-                      <!-- List Style Check -->
-                      <ul class="list-style-check">
-                        <li> Qualified Staff of Doctors </li>
-                        <li> Feel like you are at Home Services </li>
-                        <li> 24x7 Emergency Services </li>
-                        <li> Save your Money and Time with us </li>
-                        <li> Medicine Research </li>
-                        <li> Blood Bank </li>
-                      </ul>
-                    </div>
-                    
-                    <!-- Doctor Img -->
-                    <div class="col-md-offset-1 col-md-4">
-                      <div class="doctor-img"> <img class="img-responsive" src="images/depart-doctor-img-5.png" alt="" >
-                        <div class="name-doc">
-                          <h6>Dr. Narendra Mehta<br><span>Emergency Specialists</span></h6>
+                          <h6>Mr Wong Jie Peng<br><span>Reflexology Specialists</span></h6>
                         </div>
                       </div>
                     </div>

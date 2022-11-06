@@ -6,23 +6,17 @@
         <div class="col-sm-7">
           <h6>About Us</h6>
           <div class="about-foot">
-            <p> A Hospital Management System (HMS) refers to a system designed to manage healthcare data. This includes systems that collect, store, manage and transmit a patient’s electronic medical record (EMR), a hospital’s operational management or a system supporting healthcare policy decisions. </p>
+            <p> At AGTT TCM, our practice is deeply rooted in tradition, drawing from the ancient Traditional Chinese Medicine (TCM) wisdom that all treatments should begin with an understanding of the body.
+
+For more than ten years, our professional TCM practitioners have been providing personalised care for each unique individual. By using holistic approaches, we aim to treat ailments while returning the body to a state of balance and optimal energy.
+
+With over 2,000 years of history and real-life application, TCM solutions go beyond symptomatic treatments. For instance, our physicians also impart advice on how adjustments to diet and lifestyle may improve your physical constitution. In sharing such details relevant to your health, Thomson Chinese Medicine hopes to empower you with the knowledge to make the best healthcare choices for yourself.</p>
           </div>
         </div>
         
        
         
-        <!-- Conatct -->
-        <div class="col-sm-5">
-          <div class="con-info">
-            <h6>SOCIAL LINKS</h6>
-            <p><a href="https://www.itsourcecode.com/">Official Website</a></p>
-            <p><a href="https://www.facebook.com/itsourcecode">Facebook</a></p>
-            <p><a href="https://www.youtube.com/c/JokenVillanueva?sub_confirmation=1">Youtube</a></p>
-            <p><a href="https://www.twitter.com/itsourcecode">Twitter</a></p>
-            <p><a href="https://www.linkedin.com/in/joken-villanueva-776b99157/">LinkedIn</a></p>
-          </div>
-        </div>
+       
       </div>
     </div>
   </footer>
@@ -30,7 +24,7 @@
   <!-- Rights -->
   <div class="rights style-2">
     <div class="container">
-      <p>© 2022 Hospital Management System | Developed By: <strong><span></span><a href="https://www.itsourcecode.com/" style="color: white">ITSOURCECODE</a></span></strong>  </p>
+      <p>Adan Guo Tan Tan Pte. Ltd ©  | Developed By: <strong><span></span><a style="color: white">Aidan, Guo Pengyuan, Tan Jingxiang, Joshua Tan</a></span></strong>  </p>
     </div>
   </div>
   

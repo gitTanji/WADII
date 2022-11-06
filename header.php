@@ -58,36 +58,23 @@ $tim = date("H:i:s");
 
 <!-- Page Wrapper -->
 <div id="wrap">
-  <div class="top-bar">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-6">
-          <p>Welcome To Hospital Management System</p>
-        </div>
-        <div class="col-sm-6">
-          <div class="social-icons"> <a href="https://www.facebook.com/itsourcecode"><i class="fa fa-facebook"></i></a> <a href="https://www.twitter.com/itsourcecode"><i class="fa fa-twitter"></i></a> <a href="https://www.itsourcecode.com/"><i class="fa fa-dribbble"></i></a> <a href="https://www.linkedin.com/in/joken-villanueva-776b99157/"><i class="fa fa-linkedin"></i></a> <a href="https://www.youtube.com/c/JokenVillanueva?sub_confirmation=1"><i class="fa fa-youtube"></i></a> </div>
-        </div>
-      </div>
-    </div>
-  </div>
   
   <!-- Header -->
   <header class="header-style-2">
     <div class="container">
-      <div class="logo"> <a href="index.php"><img src="images/itsc-logo.png" alt="" style="height: 52px;"></a> </div>
+      <div class="logo"> <a href="index.php"><img src="images/AGTT-TCM.jpg" alt="" style="height: 70px; width: 100px"></a> </div>
       <div class="head-info">
         <ul>
           <li> <i class="fa fa-phone"></i>
-            <p>1111 222 33333<br>
-              1-222-333-4444</p>
+            <p>+65 98764657
+              </p>
           </li>
           <li> <i class="fa fa-envelope-o"></i>
-            <p>itsc@sample.com<br>
-              hms@sample.com</p>
+            <p>agtt@tcm.com.sg</p>
           </li>
           <li> <i class="fa fa-map-marker"></i>
-            <p>Negros Occidental, <br>
-             Philippines</p>
+            <p>Raffles Place <br>
+             Singapore</p>
           </li>
         </ul>
       </div>
